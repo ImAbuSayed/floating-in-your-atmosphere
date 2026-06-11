@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/floating-in-your-atmosphere/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Floating In Your Atmosphere](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/floating-in-your-atmosphere/) |
+| **Get License** | [Request Licensing for Floating In Your Atmosphere](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/floating-in-your-atmosphere/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I lose my gravity when you pull me near
+> Caught in a quiet pull that makes it so clear
+> Shadows are falling and the world disappears
+> I am just floating in your atmosphere
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
